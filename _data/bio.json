@@ -4,27 +4,24 @@
     "label": "Shidler Undergraduate",
     "picture": "https://github.com/maciewt.png",
     "email": "maciewt@hawaii.edu",
-    "phone": "",
     "website": "https://maciewt.github.io",
     "summary": "I am studying for a B.B.A in Management Information Systems, as well as Marketing at the Shilder College of Business at the University of Hawaii. I expect to graduate in Fall, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "maciewt", "url": "http://github.com/maciewt" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "macietsang", "url": "https://www.linkedin.com/in/macie-tsang-761315275/" },
+      { "network": "instagram", "username": "macie._.t", "url": "http://instagram.com/macie._.t" }
     ]
   },
   "interests": [
     { "name": "Music" },
     { "name": "Anime" },
     { "name": "Sanrio" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "HTML" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,9 +31,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Marketing and Management Information Systems (expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,70 +41,39 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Maryknoll School",
+      "position": "After School Care Leader",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Monitor children grades K-8 in extended learning program.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Ensure the safety of students during after school care.",
+        "Provide homework time for students.",
+        "Facilitate engaging activities for students to participate in."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "UH Information Computer Sciences",
+      "position": "ICS 101 Learning Assistant",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2023",
+      "endDate": "present",
+      "summary": "Assist ICS 101 labs.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Answer questions and assist students during the ICS 101 lab.",
+        "Host open labs and provide extra assistance when necessary.",
+        "Attend weekly meetings."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Provost Scholarship",
+      "date": "2022-Present",
+      "awarder": "UH Manoa",
+      "summary": "Scholarships awarded to incoming freshmen with a minimum overall GPA of 3.7 at a Hawai'i school."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
