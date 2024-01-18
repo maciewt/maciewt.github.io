@@ -1,79 +1,105 @@
 {
-  "basics": {
-    "name": "Macie Tsang",
-    "label": "Shidler Undergraduate",
-    "picture": "https://github.com/maciewt.png",
-    "email": "maciewt@hawaii.edu",
-    "website": "https://maciewt.github.io",
-    "summary": "I am studying for a B.B.A in Management Information Systems, as well as Marketing at the Shilder College of Business at the University of Hawaii. I expect to graduate in Fall, 2025.",
-    "location": { "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "maciewt", "url": "http://github.com/maciewt" },
-      { "network": "linkedin", "username": "macietsang", "url": "https://www.linkedin.com/in/macie-tsang-761315275/" },
-      { "network": "instagram", "username": "macie._.t", "url": "http://instagram.com/macie._.t" }
-    ]
-  },
-  "interests": [
-    { "name": "Music" },
-    { "name": "Anime" },
-    { "name": "Sanrio" },
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "HTML" ]
-    },
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Marketing and Management Information Systems (expected Fall, 2025)",
-      "studyType": "B.B.A.",
-      "startDate": "2022",
-      "endDate": "Present",
-      "courses": [
+   "basics":{
+      "name":"Macie Tsang",
+      "label":"Shidler Undergraduate",
+      "picture":"https://github.com/maciewt.png",
+      "email":"maciewt@hawaii.edu",
+      "website":"https://maciewt.github.io",
+      "summary":"I am studying for a B.B.A in Management Information Systems, as well as Marketing at the Shilder College of Business at the University of Hawaii. I expect to graduate in Fall, 2025.",
+      "location":{
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"maciewt",
+            "url":"http://github.com/maciewt"
+         },
+         {
+            "network":"linkedin",
+            "username":"macietsang",
+            "url":"https://www.linkedin.com/in/macie-tsang-761315275/"
+         },
+         {
+            "network":"instagram",
+            "username":"macie._.t",
+            "url":"http://instagram.com/macie._.t"
+         }
       ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Maryknoll School",
-      "position": "After School Care Leader",
-      "website": "",
-      "startDate": "2021",
-      "endDate": "Present",
-      "summary": "Monitor children grades K-8 in extended learning program.",
-      "highlights": [
-        "Ensure the safety of students during after school care.",
-        "Provide homework time for students.",
-        "Facilitate engaging activities for students to participate in."
-      ]
-    },
-    {
-      "company": "UH Information Computer Sciences",
-      "position": "ICS 101 Learning Assistant",
-      "website": "",
-      "startDate": "2023",
-      "endDate": "Present",
-      "summary": "Assist ICS 101 labs.",
-      "highlights": [
-        "Answer questions and assist students during the ICS 101 lab.",
-        "Host open labs and provide extra assistance when necessary.",
-        "Attend weekly meetings."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Provost Scholarship",
-      "date": "2022-Present",
-      "awarder": "UH Manoa",
-      "summary": "Scholarships awarded to incoming freshmen with a minimum overall GPA of 3.7 at a Hawai'i school."
-    },
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"Music"
+      },
+      {
+         "name":"Anime"
+      },
+      {
+         "name":"Sanrio"
+      }
+   ],
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "keywords":[
+            "HTML"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Marketing and Management Information Systems (expected Fall, 2025)",
+         "studyType":"B.B.A.",
+         "startDate":"2022",
+         "endDate":"Present",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Maryknoll School",
+         "position":"After School Care Leader",
+         "website":"",
+         "startDate":"2021",
+         "endDate":"Present",
+         "summary":"Monitor children grades K-8 in extended learning program.",
+         "highlights":[
+            "Ensure the safety of students during after school care.",
+            "Provide homework time for students.",
+            "Facilitate engaging activities for students to participate in."
+         ]
+      },
+      {
+         "company":"UH Information Computer Sciences",
+         "position":"ICS 101 Learning Assistant",
+         "website":"",
+         "startDate":"2023",
+         "endDate":"Present",
+         "summary":"Assist ICS 101 labs.",
+         "highlights":[
+            "Answer questions and assist students during the ICS 101 lab.",
+            "Host open labs and provide extra assistance when necessary.",
+            "Attend weekly meetings."
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Provost Scholarship",
+         "date":"2022-Present",
+         "awarder":"UH Manoa",
+         "summary":"Scholarships awarded to incoming freshmen with a minimum overall GPA of 3.7 at a Hawai'i school."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request"
+      }
+   ]
 }
