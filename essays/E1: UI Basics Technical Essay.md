@@ -12,8 +12,10 @@ labels:
 ---
 
 ## Browser History 1
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+During this WOD, we were expected to make an index.html and copy the text from a given website into our HTML as paragraphs, as well as adding a linked "Table of Contents" and adding images. I had a brief idea of what to do in the beginning, so I forgot to time myself on my first attempt, but I would say it was around 30 minutes because I got stumped and had to watch the screencast solution to see how to link the Table of Contents. I learned that I forgot the "id=" and that I had to put a "#" to correspond to that id in the Table of Contents, I redid it and got 23 minutes because I forgot the table of contents link solution, so I didn't have to watch the whole video again, I just had to look at the code to remind myself what to do. My final attempt was 14 minutes and I was very happy with that. I would say trying to do it the first time but not putting pressure on myself to get it perfect was helpful. I think I found it easier because I was only using the screencast to fill gaps in my knowledge and not learn the whole thing from scratch.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+## Browser History 2
+This WOD focused more on CSS and being able to 
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+## Browser History 3
+
