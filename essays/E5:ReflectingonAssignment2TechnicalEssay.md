@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "E5: Reflecting on Assignment 2 Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-129
+date: 2024-04-12
 published: true
 labels:
   - Assignment 2
