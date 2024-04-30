@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-## 1. Provide a brief introduction to the assignment along with a link to this page for further details
+## 1. Provide a brief introduction to the assignment along with a link to this page for further details 
 For this assignment, we were supposed to add to our Assignment 1. We added login and registration pages that are supposed to appear before the invoice page so that the user cannot purchase anything until they have logged in. These pages were supposed to be linked to a user.json file so that when the login form is submitted, it checks that the user's information is correct. It also adds the information from the registration to the user.json. The most important part was finding a way to carry the quantities over through the query string across all pages. Click [Assignment 2 instructions](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html) to see more detailed instructions. 
 
 ## 2. What did you learn from this assignment?
