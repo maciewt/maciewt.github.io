@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "E7: Reflective Analysis of my ITM 352 Experience"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-03
+date: 2024-05-05
 published: true
 labels:
   - Final
@@ -12,7 +12,6 @@ labels:
 ---
 
 ## 1. Course Goals ITM 352 has the following goals:
-<br/> 
 ### 1.1 Acquiring basic programming skills in an IT context
 I feel I reached this goal once I learned basic JavaScript because I could combine codes to accomplish the objective of the task for the code. Everything built upon that first understanding of JavaScrip with the introduction of the onmouseover, onmouseout, if-statements, etc.
 ### 1.2 Understanding why MIS people need basic programming skills and knowledge
@@ -28,7 +27,6 @@ As I said before in goal 1.4, I gained confidence by using the console when I ha
 
 <br/>
 ## 2. Course Elements and Personal Engagement
-<br/>
 ### 2.1 What did you learn from creating a professional portfolio and using it in ITM 352?
 I don't think I learned much from that. It is a nice platform to use to keep all of the projects that a user might have worked on, but there is already LinkedIn and other platforms similar to that. I don't think I would really have a use for a professional portfolio since LinkedIn provides that for me when I enter my information. 
 ### 2.2 What did you gain from doing the WODs?
@@ -44,22 +42,20 @@ In Assignment 1, I learned how to use a template and implement my own design. Fo
 
 <br/>
 ## 3. Challenges and Achievements
-<br/>
 ### 3.1 Detail the specific challenges you encountered during the course, such as understanding new programming concepts, completing WODs, web application development assignments.
 I don't have any specific challenges encountered besides the query string in Assignment 2. I understood the concepts and how to apply them to the objective. The consistent query string across pages in Assignment 2 was the only thing that I had trouble with and needed to consult with Prof. Port. 
 ### 3.2 Explain how you overcame these challenges and the strategies that helped you succeed.
 I overcame the query string by first attempting to use ChatGPT, but it didn't work, so I met with Prof. Port. That's pretty much it.
 ### 3.3 Highlight any particular achievements or milestones in the course that were significant to you.
 The completion of Store 1 WOD was significant to me because I felt like it was the first "big" application of skills that we were meant to do on our own. It took a while to figure out, but I was proud of myself for completing it and it gave me more confidence in what I was doing. 
-<br/>
+<br/> 
+
 ## 4. Skill Development and Application
-<br/>
 ### 4.1 Reflect on the three skill levels outlined in the course (syntactic, algorithmic, application) and discuss your progression through these levels.
 The beginning of the course was syntactic-focused, just getting us used to creating HTML pages, starting and stopping the server, and knowing how GET works. I think I progressed through this part quickly and it wasn't very difficult because I took ICS 101 and many of the HTML skills we had already learned in that course. The algorithmic section was pretty difficult because I had no prior experience using JavaScript, so all of it was new to me. These were like the functions, loops, if-statements, etc. We would learn and then put the different algorithmic code together to make a bigger statement. I would say the application skill level was worked on right before spring break and the rest of the class, starting with the Store WODs. This was both extremely difficult and fairly easy because some things we had prior experience with from labs, so it was just taking code we already knew and applying it in a different way. Other parts were really hard to think of how to write a natural language into the correct code that would work. I think after Assignment 1, I was doing well with the application skill because it gave me more confidence.
 ### 4.2 Describe how the hands-on experience with web-based e-service applications enhanced your understanding and confidence in handling MIS issues.
 This was already talked about in 4.1, 2.6, and 1. It taught me that I knew what I was doing and that ChatGPT is a good resource for small troubleshooting and help. 
 
-<br/>
 ## 5. Use of AI (e.g. ChatGPT)
 <br/>
 ### 5.1 Discuss how use of AI enhanced your learning and productivity. Give specific examples of how you used AI effectively.
@@ -67,8 +63,8 @@ AI was an excellent tool for troubleshooting small issues that may have been syn
 ### 5.2 Discuss how use of AI inhibited your learning or and productivity. Give specific examples of how you used AI ineffectively.
 While AI was good at creating a base for my functions, it would sometimes give me things that I had not learned. Most of the time, I was able to recognize that we hadn't learned it and I told it to generate something new, but sometimes I would be so stuck that I accepted ChatGPT's suggestion and it would lead to bigger issues. This happened to me during Assignment 2 when I couldn't figure out how to move the quantities through the query string so I had asked ChatGPT and it made me use localStorage, which we had not learned. It ended up causing me more trouble when I wanted to move the quantities to the invoice, so I ultimately asked Prof. Port for help and erased all the GPT code for that. It made me stuck for 3 days when it could have been easily fixed had I asked Prof. Port earlier.
 <br/>
+
 ## 6. Future Implications and Professional Growth
-<br/>
 ### 6.1 Explore how the skills and knowledge gained from ITM 352 can be applied in your future academic and professional endeavors.
 Learning how to troubleshoot on my own using the web browser console, AI, and other resources will be helpful in my academics considering that not all professors are always available or willing to help with issues. ITM 352 gave me a base understanding of JavaScript and coding that I can build upon to maybe create websites or other applications for businesses. It is also a good skill to be able to put basic JavaScript knowledge on my resume. 
 ### 6.2 Discuss the potential impacts these skills will have on your career, especially in terms of understanding and addressing MIS problems.
