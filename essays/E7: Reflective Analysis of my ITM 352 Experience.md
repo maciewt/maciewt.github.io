@@ -12,6 +12,7 @@ labels:
 ---
 
 ## 1. Course Goals ITM 352 has the following goals:
+<br/> 
 ### 1.1 Acquiring basic programming skills in an IT context
 ### 1.2 Understanding why MIS people need basic programming skills and knowledge
 ### 1.3 Gaining hands-on experience in developing software applications
